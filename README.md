@@ -3,3 +3,4 @@ Our goal is to predict soccer match results using detailed match event data usin
 
 In this repository we have a Algorithms folder containing all the code for the 4 algorithms created for this project and related files, we also have a Data folder that conatins processed and raw folders inside it containing the subsequent datasets, it is importent to note that in the raw folder we could only upload a sample of the events dataset since the actual events dataset was to large to upload to github.
 
+### All code can be found under code sections, and all data (raw and processed) can be found under data.
